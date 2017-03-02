@@ -1,3 +1,8 @@
+I got this from here [Python Broadlink](https://github.com/mjg59/python-broadlink) and started working with it.
+
+Thank you to mjg59 for doing all the initial work.
+
+
 Python control for Broadlink RM2 IR controllers
 ===============================================
 
